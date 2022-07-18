@@ -8,6 +8,6 @@ Hello, I’m Brederodes.
 
 -Knows the basics of C, Java and Python.
 
--Currently mastering Javascript.
+-Currently mastering JavaScript.
 
 Contact: anacleciobrederodes@outlook.com
