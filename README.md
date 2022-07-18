@@ -2,7 +2,7 @@ Hello, I’m Brederodes.
 
 -19 years old brazilian.
 
--Computer Engineering at University of Pernambuco (UPE).
+-Graduating at Computer Engineering at University of Pernambuco (UPE).
 
 -Working on becoming a fullstack dev.
 
