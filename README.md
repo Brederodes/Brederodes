@@ -4,10 +4,6 @@ Hello, I’m Brederodes.
 
 -Graduating at Computer Engineering at University of Pernambuco (UPE).
 
--Working on becoming a fullstack dev.
-
--Knows the basics of C, Java and Python.
-
--Currently mastering JavaScript.
+-Knows how to code in C, C#, Java, Javascript and Python.
 
 Contact: anacleciobrederodes@outlook.com
